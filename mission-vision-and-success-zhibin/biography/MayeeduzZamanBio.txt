@@ -1,4 +1,0 @@
-Hello everybody I am Mayeeduz Zaman and I am a transfer student from CCP.
-I have some coding experience in Java and MIPS assembly but I am a little
-rusty. I believe however that my background and experience with programming
-will help us secure the W for this project.
